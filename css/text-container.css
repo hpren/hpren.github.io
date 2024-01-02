@@ -1,10 +1,10 @@
 .text-container {
-    width: 80%; /* or any percentage you prefer */
+    width: 70%; /* or any percentage you prefer */
     max-width: 800px; /* or any specific width */
     margin-left: auto;
     margin-right: auto;
     padding: 30px; /* optional, for internal spacing */
-    text-align: justify; /* optional, for justified text */
+    text-align: center; /* optional, for justified text */
 }
 
 @media screen and (max-width: 768px) {
