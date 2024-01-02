@@ -3,8 +3,8 @@
     max-width: 800px; /* or any specific width */
     margin-left: auto;
     margin-right: auto;
-    padding: 30px; /* optional, for internal spacing */
-    text-align: justify; /* optional, for justified text */
+    padding: 20px; /* optional, for internal spacing */
+    text-align: left; /* optional, for justified text */
 }
 
 @media screen and (max-width: 768px) {
