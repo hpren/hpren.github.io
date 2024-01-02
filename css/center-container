@@ -4,6 +4,6 @@
     justify-content: center; /* Centers children vertically in the container */
     align-items: center; /* Centers children horizontally in the container */
     min-height: 100vh; /* 100% of the viewport height to center on the whole page */
-    width: 100%; /* 100% of the viewport width */
+    width: 80%; /* 100% of the viewport width */
 }
 
