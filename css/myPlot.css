@@ -1,6 +1,6 @@
 .myPlot {
   display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%; /* or any other percentage/value */
+  margin-left: 30px;
+  margin-right: 10px;
+  width: 30%; /* or any other percentage/value */
 }
