@@ -2,5 +2,5 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 300px; /* Or any height you prefer */
+    height: 30px; /* Or any height you prefer */
 }
