@@ -6,3 +6,10 @@
     padding: 20px; /* optional, for internal spacing */
     text-align: justify; /* optional, for justified text */
 }
+
+@media screen and (max-width: 768px) {
+    .text-container {
+        width: 95%;
+        padding: 10px;
+    }
+}
