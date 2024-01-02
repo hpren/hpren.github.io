@@ -1,6 +1,6 @@
 .myPlot {
-  display: block;
-  margin-left: 30px;
-  margin-right: 10px;
-  width: 30%; /* or any other percentage/value */
+    float: right; /* Aligns the plot to the right */
+    margin-left: 30px; /* Space from the left */
+    margin-right: 10px; /* Space from the right */
 }
+
