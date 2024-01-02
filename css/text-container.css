@@ -8,8 +8,8 @@
 }
 
 .text-container p {
-    font-size: 28px; /* You can adjust this value as needed */
-    line-height: 1.6;
+    font-size: 50px; /* You can adjust this value as needed */
+    line-height: 1.5;
 }
 
 @media screen and (max-width: 768px) {
