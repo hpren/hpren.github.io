@@ -4,3 +4,9 @@
     margin-right: 10px; /* Space from the right */
 }
 
+.myPlot img {
+    border-radius: 50%; /* Makes the image round */
+    width: 300px; /* Width of the image */
+    height: 300px; /* Height of the image, should be equal to width for a perfect circle */
+}
+
