@@ -1,7 +1,8 @@
 .center-container {
     display: flex;
-    align-items: center;
-    justify-content: center;
+    flex-direction: column; /* Stack children vertically */
+    align-items: center; /* Center children horizontally */
+    justify-content: center; /* Center children vertically */
     min-height: 100vh;
 }
 
