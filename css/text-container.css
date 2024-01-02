@@ -4,7 +4,7 @@
     margin-left: auto;
     margin-right: auto;
     padding: 30px; /* optional, for internal spacing */
-    text-align: center; /* optional, for justified text */
+    text-align: justify; /* optional, for justified text */
 }
 
 @media screen and (max-width: 768px) {
