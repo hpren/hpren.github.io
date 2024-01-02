@@ -1,4 +1,5 @@
 .center-container {
+    width: 100%;
     display: flex;
     flex-direction: column; /* Stack children vertically */
     align-items: center; /* Center children horizontally */
