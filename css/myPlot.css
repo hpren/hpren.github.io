@@ -1,5 +1,6 @@
-#myPlot {
-  margin: 20px;
-  position: relative;
-  /* other styles */
+.myPlot {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%; /* or any other percentage/value */
 }
