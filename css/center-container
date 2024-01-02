@@ -1,6 +1,8 @@
 .center-container {
     display: flex;
-    justify-content: center;
+    flex-direction: column;
     align-items: center;
-    height: 30px; /* Or any height you prefer */
+    justify-content: center;
+    min-height: 100vh;
 }
+
